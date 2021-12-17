@@ -3,8 +3,11 @@
 # A person who likes to program
 
 -🌱 I’m currently learning PHP, JavaScript, SQL & Git
+
 -💬 Ask me about PHP
+
 -📫 How to reach me? send me a message on Twitter and Discord!
+
 
 **My Socials Networks:**
 
