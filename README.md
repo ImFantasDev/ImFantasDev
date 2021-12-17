@@ -2,11 +2,11 @@
 
 # A person who likes to program
 
--🌱 I’m currently learning PHP, JavaScript, SQL & Git
+-🌱 I’m currently learning **PHP, JavaScript, SQL & Git**
 
--💬 Ask me about PHP
+-💬 Ask me about **PHP**
 
--📫 How to reach me? send me a message on Twitter and Discord!
+-📫 How to reach me? **send me a message on Twitter and Discord!**
 
 
 **My Socials Networks:**
