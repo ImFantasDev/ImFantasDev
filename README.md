@@ -1,12 +1,10 @@
 ### Hi there 👋, i am ImFantasy
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
+# A person who likes to program
 
 -🌱 I’m currently learning PHP, JavaScript, SQL & Git
 -💬 Ask me about PHP
--📫 How to reach me? send me a message on Twitter
+-📫 How to reach me? send me a message on Twitter and Discord!
 
 **My Socials Networks:**
 
