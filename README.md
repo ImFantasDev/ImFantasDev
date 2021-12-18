@@ -16,7 +16,6 @@
  
  **My Statics:**
  
-src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ImFantasDev)](https://github.com/ryo-ma/github-profile-trophy)
 
