@@ -4,7 +4,7 @@
 
 -🌱 I’m currently learning **PHP, JavaScript, SQL & Git**
 
--💬 Ask me about **PHP**
+-💬 Ask me about **JS**
 
 -📫 How to reach me? **send me a message on Twitter and Discord!**
 
